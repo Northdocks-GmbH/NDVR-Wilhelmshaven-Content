@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.ndvr-whl_assembly-18319896.ue4editor.exe",
+			"app_key": "application.generated.ue.ndvrwhv_assembly-18319896.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "G:/Shared drives/Storage/Wilhelmshaven_VR/_work/Sqz00_Assembly/UE4/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/GitHub/NDVR-Wilhelmshaven-Content/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "NDVR-WHL_Assembly-18319896 [UE Editor]"
+					"name": "NDVRWHV_Assembly-18319896 [UE Editor]"
 				}
 			}
 		}
